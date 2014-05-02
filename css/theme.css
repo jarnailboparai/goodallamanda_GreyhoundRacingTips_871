@@ -140,16 +140,13 @@
 
 }
 
+@media (min-width: 100px) and (max-width: 399px) {
 .theme_bg
 {
-	background-image:none;
+	background-image:url(../images/app871port.PNG) ;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(center , ellipse cover , rgb(230, 104, 41) 1% , rgb(193, 130, 77) 80%);
-background: -o-radial-gradient(center , ellipse cover , rgb(230, 104, 41) 1% , rgb(193, 130, 77) 80%);
-background: -ms-radial-gradient(center , ellipse cover , rgb(230, 104, 41) 1% , rgb(193, 130, 77) 80%);
-background: -moz-radial-gradient(center , ellipse cover , rgb(230, 104, 41) 1% , rgb(193, 130, 77) 80%);
-background: -webkit-radial-gradient(center , ellipse cover , rgb(230, 104, 41) 1% , rgb(193, 130, 77) 80%);
+}
 }
 
 
